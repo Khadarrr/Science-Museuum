@@ -1,0 +1,38 @@
+.hero-pic {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("/img/j-balla-photography-oMzfu2sXkrE-unsplash.jpg");
+}
+.headline {
+  font-size: 32px;
+}
+
+.astronaut,
+.night-museum {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-bottom: 100px;
+}
+
+.text {
+  background-color: yellow;
+  align-content: center;
+  font-size: 24px;
+}
+
+.astronaut-text,
+.text {
+  width: 450px;
+  font-size: 24px;
+}
+
+.energic-text {
+  padding: 20px;
+  font-size: 24px;
+}
+
+.titale {
+  text-align: center;
+  padding-top: 50px;
+}
