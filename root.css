@@ -1,6 +1,6 @@
 @import url("/MajorMonoDisplay-Regular.ttf");
 @font-face {
-  font-family: "Major Mono Display", monospace;
+  font-family: "MajorMonoDisplay-Regular";
   src: url(/MajorMonoDisplay-Regular.ttf);
 }
 
@@ -29,17 +29,13 @@ html:focus-within {
 
 html,
 body {
-  font-family: "major mono display";
+  font-family: "MajorMonoDisplay-Regular";
 }
 
 img {
   max-width: 100%;
 }
 
-/* main {
-  padding-left: 80px;
-  padding-right: 80px;
-} */
 .hero-pic {
   padding-bottom: 200px;
   height: 620px;
@@ -96,9 +92,6 @@ button {
   font-weight: bolder;
   -webkit-text-stroke: #00ff19;
 }
-/* main {
-  font-size: 24px;
-} */
 
 footer {
   padding-top: 100px;
