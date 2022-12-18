@@ -88,7 +88,7 @@ button {
   border-radius: 10px;
   width: 200px;
   color: var(--green);
-  font-family: "major mono display";
+  font-family: "MajorMonoDisplay-Regular";
   font-weight: bolder;
   -webkit-text-stroke: #00ff19;
 }
