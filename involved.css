@@ -1,6 +1,6 @@
 .hero-pic {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/images/william-bout-264826.jpg");
+    url("/img/william-bout-264826.jpg");
 }
 
 .headline {
@@ -8,8 +8,7 @@
   font-size: 32px;
   padding: 100px;
 }
-.support,
-.internships {
+.support {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -21,7 +20,6 @@
 .intern-text,
 .voulent-text {
   width: 320px;
-  font-size: 24px;
 }
 .intern-text {
   background-color: yellow;
@@ -30,5 +28,5 @@
   width: 100%;
 }
 .text {
-  font-size: 24px;
+  padding: 20px;
 }

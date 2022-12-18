@@ -2,7 +2,7 @@
   padding-bottom: 200px;
   height: 620px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/images/exhibition-1863344_1920.jpg");
+    url("/img/exhibition-1863344_1920.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -44,6 +44,7 @@
   background-color: yellow;
   border-radius: 45px;
   text-align: center;
+  width: 320px;
 }
 
 .outside-img {
@@ -63,6 +64,11 @@
   display: flex;
   flex-direction: column;
   padding-top: 50px;
+}
+
+.rightside-main {
+  background-color: yellow;
+  border-radius: 5px;
 }
 .img-inside {
   width: 450px;
@@ -96,6 +102,10 @@
 
 .opning-hours-homepage {
   padding-bottom: 50px;
+}
+
+.addmission {
+  width: 320px;
 }
 
 /* .image-line {
