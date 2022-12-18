@@ -1,0 +1,114 @@
+.hero-pic {
+  padding-bottom: 200px;
+  height: 620px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("/images/exhibition-1863344_1920.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.logo-position {
+  display: grid;
+  grid-template-rows: auto;
+  align-content: stretch;
+  padding: 100px;
+  justify-items: stretch;
+  justify-content: space-around;
+}
+
+.logo-position-2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.top-section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding-top: 50px;
+}
+
+.half-line {
+  width: 50%;
+}
+
+.text-homepage {
+  width: 380px;
+}
+
+.openig-hours-homepage {
+  list-style-type: none;
+  background-color: yellow;
+  border-radius: 45px;
+  text-align: center;
+}
+
+.outside-img {
+  width: 100%;
+}
+
+.main-homepage {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding-bottom: 100px;
+}
+
+.leftside-main,
+.rightside-main {
+  display: flex;
+  flex-direction: column;
+  padding-top: 50px;
+}
+.img-inside {
+  width: 450px;
+}
+.text-main {
+  width: 320px;
+  align-self: inherit;
+}
+
+.info-top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding-bottom: 100px;
+  padding-top: 50px;
+}
+
+.outside-pic {
+  padding-bottom: 100px;
+  width: 100%;
+}
+
+.homepage-upper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding-bottom: 50px;
+}
+
+.opning-hours-homepage {
+  padding-bottom: 50px;
+}
+
+/* .image-line {
+  width: 60%;
+  margin-left: auto;
+} */
+
+.science-gril {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 20px;
+}
+
+.text-sciene {
+  padding: 50px;
+}

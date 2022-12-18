@@ -1,0 +1,34 @@
+.hero-pic {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("/images/william-bout-264826.jpg");
+}
+
+.headline {
+  text-align: center;
+  font-size: 32px;
+  padding: 100px;
+}
+.support,
+.internships {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-bottom: 100px;
+}
+
+.support-text,
+.intern-text,
+.voulent-text {
+  width: 320px;
+  font-size: 24px;
+}
+.intern-text {
+  background-color: yellow;
+}
+.voleenters-pic {
+  width: 100%;
+}
+.text {
+  font-size: 24px;
+}
