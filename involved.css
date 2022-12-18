@@ -8,7 +8,8 @@
   font-size: 32px;
   padding: 100px;
 }
-.support {
+.support,
+.internships {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -20,6 +21,7 @@
 .intern-text,
 .voulent-text {
   width: 320px;
+  font-size: 24px;
 }
 .intern-text {
   background-color: yellow;
