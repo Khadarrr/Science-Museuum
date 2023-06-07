@@ -16,6 +16,7 @@
   padding: 100px;
   justify-items: stretch;
   justify-content: space-around;
+  max-width: 100%;
 }
 
 .logo-position-2 {
@@ -41,7 +42,6 @@
 
 .openig-hours-homepage {
   list-style-type: none;
-  background-color: yellow;
   border-radius: 45px;
   text-align: center;
   width: 320px;
@@ -67,7 +67,6 @@
 }
 
 .rightside-main {
-  background-color: yellow;
   border-radius: 5px;
 }
 .img-inside {
